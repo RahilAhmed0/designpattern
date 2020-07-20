@@ -1,4 +1,4 @@
-package com.epam.designpattens;
+package com.epam.designpattern;
 
 /**
  * Hello world!

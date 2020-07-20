@@ -1,4 +1,4 @@
-package com.epam.designpattens;
+package com.epam.designpattern;
 
 import static org.junit.Assert.assertTrue;
 
